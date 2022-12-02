@@ -4,7 +4,7 @@
 
 
 ## Today we will be discussing the Birthday Problem
-## This is a common notion in the context of proabability...
+## This is a common notion in the context of probability...
 ## but what about coding this?
 
 
